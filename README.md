@@ -2,7 +2,7 @@
 AES, DES, RSA
 
 * test as follow
---- java 
+```java 
     public static void main(String[] args) throws Exception {
         //------ AES
         String input = "AES is strongest sync encryption algo";
@@ -27,4 +27,4 @@ AES, DES, RSA
 
     }
 
----
+```
